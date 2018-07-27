@@ -1,0 +1,138 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kobuleti_beach_club_hotel.com" resolutions="1x" timestamp="1530437235092">
+  <folder name="css">
+    <file name="site_global.css" crc="4185260426"/>
+    <file name="index.css" crc="4052272372" ref="index"/>
+    <file name="kobuleti-beach-club-hotel-ge.css" crc="4268788516" ref="kobuleti-beach-club-hotel-ge"/>
+    <file name="kobuleti-beach-club-hotel-ru.css" crc="3954926652" ref="kobuleti-beach-club-hotel-ru"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="museutils.js" crc="340535759" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="whatinput.js" crc="86476730" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="webpro.js" crc="4059564322" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="require.js" crc="7928878" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+  </folder>
+  <folder name="images">
+    <file name="kobuleti-beach-club-hotel-en-favicon.ico" crc="338653066" ref="index"/>
+    <file name="7.jpg" crc="19209281" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="dsc04550.jpg" crc="202892226" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="1111.jpg" crc="9924922" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru"/>
+    <file name="gold-right.png" crc="265139576" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="gold.png" crc="95490186" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="23.jpg" crc="331219999" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="dsc04615.jpg" crc="391412126" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="dsc04610.jpg" crc="416792856" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="dsc04577.jpg" crc="29940078" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="555.jpg" crc="464853694" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="dsc04565.jpg" crc="434989778" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="dsc04564.jpg" crc="3816091248" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4267949662" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="4.jpg" crc="96446732" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="3.jpg" crc="405681788" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3839228179" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="1.jpg" crc="71353493" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="12.jpg" crc="30036469" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="22.jpg" crc="259487713" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="без-имени-3.png" crc="4173626275" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="без-имени-1.png" crc="3944603751" seo="true" ref="index:kobuleti-beach-club-hotel-ge:kobuleti-beach-club-hotel-ru">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ge" alt=""/>
+      <caption webpage="kobuleti-beach-club-hotel-ru" alt=""/>
+    </file>
+    <file name="kobuleti-beach-club-hotel-ge-favicon.ico" crc="338653066" ref="kobuleti-beach-club-hotel-ge"/>
+    <file name="kobuleti-beach-club-hotel-ru-favicon.ico" crc="338653066" ref="kobuleti-beach-club-hotel-ru"/>
+  </folder>
+  <file name="index.html" crc="3911413090" seo="true" mt="1530436780783" redirect="true"/>
+  <file name="kobuleti-beach-club-hotel-ge.html" crc="4123206184" seo="true" mt="1530437172750" redirect="true"/>
+  <file name="kobuleti-beach-club-hotel-ru.html" crc="448332170" seo="true" mt="1530437183675" redirect="true"/>
+</manifest>
